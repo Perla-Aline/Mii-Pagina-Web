@@ -12,15 +12,15 @@ var estudiantes = [
       carrera: "IRYC"
     },
     {
-      apellidop: "Cuellar",
-      apellidom: "Garces",
-      nombre: "Francisco",
-      edad: 22,
+      apellidop: "",
+      apellidom: "",
+      nombre: "",
+      edad: 1,
       fechanacimiento: {
   
-        año: 1999,
-        mes: "Septiembre",
-        dia: 15
+        año: 1111,
+        mes: "",
+        dia: 1
       },
       carrera: "IRYC"
     }
