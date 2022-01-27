@@ -22,7 +22,7 @@ var estudiantes = [
         mes: "",
         dia: 1
       },
-      carrera: "IRYC"
+      carrera: ""
     }
   ]
   
